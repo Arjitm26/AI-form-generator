@@ -1,0 +1,7 @@
+streamlit 
+langchain_groq
+langchain
+langchain_core
+python-dotenv
+streamlit_authenticator
+firebase_admin
